@@ -2,7 +2,7 @@
 /**
  *Variable hoisting and function hoisting occurs is when a variable or function is declared. A variable will will be hoisted to the top of the file by the javascript inturputer with out the varable value attached to it. A function decleration will be hoisted in it's entierty but a function expression will only hoist the variable to the top of the file. 
  * 
- * 
+ * "Variables and functions are hoisted to the top of the scope that they are declared in"
  */
 
 
