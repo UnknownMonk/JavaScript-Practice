@@ -11,7 +11,9 @@ function getTotal() {
   }
 }
 
-getTotal(10, 20);
- getTotal(10)(20);
+console.log(getTotal(10, 20));
+console.log(getTotal(5, 40));
+console.log(getTotal(3)(30));
+console.log(getTotal(8)(12));
  
 
