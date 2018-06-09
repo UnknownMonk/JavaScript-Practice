@@ -18,4 +18,4 @@ const user2 = {
 };
 
 console.log(user1 == user2); //false
-console.log(JSON.stringify(user1) === JASON.stringify( user2)); //false
+console.log(JSON.stringify(user1) === JASON.stringify( user2)); //true
