@@ -1,3 +1,5 @@
+// A basic constructor function and how it is used.
+
 function User(firstName, lastName,age,gender){
   this.firstName = firstName;
   this.lastName  = lastName;
